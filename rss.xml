@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[The Business Growth Plan Alliance]]></title>
+        <description><![CDATA[The Business Growth Plan Alliance]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Tue, 16 Feb 2016 20:19:26 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[The Business Growth Plan Alliance]]></title>
+            <description><![CDATA[<article><h1>The Business Growth Plan Alliance</h1><p>The Business Growth Plan Alliance is a project of The Business Growth Plan, LLC whose goal is to build out Joint Venture partnerships for our clients to help them grow their businesses.</p></article>]]></description>
+            <link>undefinedthe-business-growth-plan-alliance/index.html</link>
+            <guid isPermaLink="false">aa7191ec-8af8-43f1-bb11-b1e53e28f4c6</guid>
+            <pubDate>Tue, 16 Feb 2016 20:19:26 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
