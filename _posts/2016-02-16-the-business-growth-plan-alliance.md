@@ -1,23 +1,22 @@
 ---
-inFeed: true
-hasPage: true
-inNav: false
-inLanguage: null
-starred: false
-keywords: []
-description: ''
-datePublished: '2016-02-16T20:19:26.331Z'
-dateModified: '2016-02-16T20:19:12.579Z'
-title: The Business Growth Plan Alliance
-author: []
-authors: []
-publisher:
-  name: null
-  domain: null
-  url: null
-  favicon: null
+datePublished: '2016-08-31T13:43:20.291Z'
 sourcePath: _posts/2016-02-16-the-business-growth-plan-alliance.md
-published: true
+inFeed: true
+authors: []
+hasPage: true
+keywords: []
+author: []
+dateModified: '2016-08-31T13:43:17.700Z'
+title: ''
+publisher: {}
+description: >-
+  The Business Growth Plan Alliance is a project of The Business Growth Plan,
+  LLC whose goal is to build out Joint Venture partnerships for our clients to
+  help them grow their businesses.
+inLanguage: null
+inNav: false
+via: {}
+starred: false
 url: the-business-growth-plan-alliance/index.html
 _type: Article
 
